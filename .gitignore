@@ -1,16 +1,15 @@
-﻿# Environment files
+﻿# Ignore secrets and local files
 .env
 backend/.env
+backend/uploads/.env
+.streamlit/secrets.toml
 
-# Python cache
+# Python
 __pycache__/
 *.pyc
-
-# Virtual environment
 venv/
-.env/
 
-# VS Code settings
+# VS Code
 .vscode/
 
 # Streamlit cache
