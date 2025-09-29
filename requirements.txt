@@ -1,0 +1,11 @@
+﻿flask
+flask-cors
+assemblyai
+google-generativeai
+gunicorn
+streamlit
+requests
+numpy
+soundfile
+streamlit-webrtc
+python-dotenv
